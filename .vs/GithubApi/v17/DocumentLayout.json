@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\github cv site\\GithubApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C27F92E-C734-498D-B708-57BAD7AA2160}|GithubApi\\GithubApi.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\github cv site\\githubapi\\githubapi\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C27F92E-C734-498D-B708-57BAD7AA2160}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69887F9-68C0-4895-BEB1-5840FBE17CB1}|GithubService\\GithubService.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\github cv site\\githubapi\\githubservice\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69887F9-68C0-4895-BEB1-5840FBE17CB1}|GithubService\\GithubService.csproj|solutionrelative:githubservice\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\AppData\\Roaming\\Microsoft\\UserSecrets\\c819983f-8374-4130-ae66-3528d4ce99b2\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\AppData\\Roaming\\Microsoft\\UserSecrets\\c819983f-8374-4130-ae66-3528d4ce99b2\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c819983f-8374-4130-ae66-3528d4ce99b2\\secrets.json",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\AppData\\Roaming\\Microsoft\\UserSecrets\\c819983f-8374-4130-ae66-3528d4ce99b2\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c819983f-8374-4130-ae66-3528d4ce99b2\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T14:14:41.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GithubController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\github cv site\\GithubApi\\GithubApi\\Controllers\\GithubController.cs",
+              "RelativeDocumentMoniker": "GithubApi\\Controllers\\GithubController.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\github cv site\\GithubApi\\GithubApi\\Controllers\\GithubController.cs",
+              "RelativeToolTip": "GithubApi\\Controllers\\GithubController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:18:26.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GithubService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\github cv site\\GithubApi\\GithubService\\GithubService.cs",
+              "RelativeDocumentMoniker": "GithubService\\GithubService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\github cv site\\GithubApi\\GithubService\\GithubService.cs",
+              "RelativeToolTip": "GithubService\\GithubService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:37:05.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

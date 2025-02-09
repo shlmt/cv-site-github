@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vl2HpxXFsfdHEB/CtFXo5pUbVirsOYi2U7AxN4LmThuiYf9F3B0JoNQRHCCalo/HBMqq24syN18TRWoAmTa2Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\משתמש\\הנדסת תוכנה\\פרקטיקוד\\github cv site\\GithubApi\\GithubService\\GithubService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\משתמש\\.nuget\\packages\\octokit\\14.0.0\\octokit.14.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

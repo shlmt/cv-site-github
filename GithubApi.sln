@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubApi", "GithubApi\GithubApi.csproj", "{7C27F92E-C734-498D-B708-57BAD7AA2160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubService", "GithubService\GithubService.csproj", "{C69887F9-68C0-4895-BEB1-5840FBE17CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C27F92E-C734-498D-B708-57BAD7AA2160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C27F92E-C734-498D-B708-57BAD7AA2160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C27F92E-C734-498D-B708-57BAD7AA2160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C27F92E-C734-498D-B708-57BAD7AA2160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69887F9-68C0-4895-BEB1-5840FBE17CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69887F9-68C0-4895-BEB1-5840FBE17CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69887F9-68C0-4895-BEB1-5840FBE17CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69887F9-68C0-4895-BEB1-5840FBE17CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D303B883-67F7-458C-A67D-E41156D780CA}
+	EndGlobalSection
+EndGlobal
