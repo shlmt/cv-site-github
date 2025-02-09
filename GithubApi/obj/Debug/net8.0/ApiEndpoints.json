@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "GithubApi.Controllers.GithubController",
+    "Method": "GetPortfolio",
+    "RelativePath": "api/Github/portfolio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GithubApi.Controllers.GithubController",
+    "Method": "GetRepository",
+    "RelativePath": "api/Github/repository",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "repoName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
