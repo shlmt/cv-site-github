@@ -9,11 +9,11 @@ namespace GithubApi.Controllers
     [ApiController]
     public class GithubController : ControllerBase
     {
-        private readonly GitHubService _githubService;
+        private readonly IGitHubService _githubService;
         private readonly string _githubToken;
-        public GithubController(IConfiguration configuration)
+        public GithubController(IConfiguration configuration, IGitHubService gitHubService)
         {
-            _githubService = new GitHubService();
+            _githubService = gitHubService;
             _githubToken = configuration["GithubToken"];
         }
 

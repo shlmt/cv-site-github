@@ -3,7 +3,7 @@ using System;
 
 namespace GithubService
 {
-    public class GitHubService
+    public class GitHubService : IGitHubService
     {
         private readonly GitHubClient _client;
         public GitHubService()
