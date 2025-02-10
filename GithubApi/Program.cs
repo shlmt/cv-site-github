@@ -6,7 +6,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-builder.Services.AddTransient<IGitHubService, GitHubService>();
+builder.Services.AddScoped<IGitHubService, GitHubService>();
+builder.Services.Decorate<IGitHubService, CachedGitHubService>(); //מזהה מחלקות שהן DECORATOR
+
+builder.Services.AddMemoryCache();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
